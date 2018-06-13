@@ -1,0 +1,13 @@
+body{
+  background-color:#f4f4f4;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  max-width:960px;
+  margin:0 auto;
+}
+#app{
+  font-size:54px;
+  font-weight:400;
+}
